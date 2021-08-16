@@ -1,0 +1,1 @@
+print ("Wassap, men\nyo\nyeah\nunderstood?")
